@@ -31,7 +31,7 @@ SharpWifiGrabber devloped to be compatible with execute assembly as well.
 - **CobaltStrike**
 ![CobaltStrike execute-assembly](/images/cobalt.PNG)
 - **GRAT2**
-![GRAT2 executeassembly(/images/grat2.PNG)
+![GRAT2 executeassembly](/images/grat2.PNG)
 
 ## Credits:
 
