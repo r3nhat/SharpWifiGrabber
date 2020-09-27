@@ -22,7 +22,7 @@ It is categorized as a situational awareness (Host Reconnaissance) tool written 
 
 ## Why Sharp Wifi Password Grabber ?
 
-It is useful because usually Wi-Fi networks are not segregated correctly from other network segments, are less monitored and therefore having a Wi-Fi password during a penetration testing/red team engagement you may have the key of the kingdom ;-).
+It is useful because usually Wi-Fi networks are not segregated into different segments, are less monitored and therefore having a Wi-Fi password during a penetration testing/red team engagement you may have the key of the kingdom ;-).
 
 ## Usage:
 
