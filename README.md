@@ -18,7 +18,7 @@
 ## About Sharp Wifi Password Grabber
 
 Sharp Wifi Password Grabber retrieves in clear-text the Wi-Fi Passwords from all WLAN Profiles saved on a workstation.
-Is categorized as a situational awareness (Host Reconnaissance) tool written in .NET 4.0 with native Win32 APIs.
+It is categorized as a situational awareness (Host Reconnaissance) tool written in .NET 4.0 with native Win32 APIs.
 
 ## Why Sharp Wifi Password Grabber ?
 
