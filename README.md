@@ -37,3 +37,7 @@ SharpWifiGrabber devloped to be compatible with execute assembly as well.
 
 * WiFiProfileManagement - [Jason Walker](https://github.com/jcwalker/WiFiProfileManagement)
 * Manage WiFi with Native API WIFI - [Alo1980](https://www.codeproject.com/Articles/72105/Manage-WiFi-with-Native-API-WIFI-on-Windows-XP-SP2)
+
+## Disclaimer:
+
+This project can only be used for authorized testing or educational purposes. Using this software against target systems without prior permission is illegal, and any damages from misuse of this software will not be the responsibility of the author.
